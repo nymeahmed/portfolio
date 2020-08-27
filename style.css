@@ -1,0 +1,40 @@
+body {
+	background-color: #ffffcc;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 2;
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: auto;
+	text-align: center;
+}
+#font{
+	font: 30px Algerian, Helvetica, sans-serif;
+}
+#top{
+	background-color: #e6ffcc;
+}
+#space{
+	letter-spacing: 25px;
+}
+#picture{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.block{
+	background-color: #e6ffcc;
+	margin: 5;
+	float:center;
+	width: 100%;
+	box-sizing: border-box;
+	border: 2px grey solid;
+}
+#main-footer{
+	text-align: center;
+	padding: 15px;
+	margin-top: 20px;
+}
